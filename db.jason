@@ -1,0 +1,110 @@
+{
+  "passengers": [
+    {
+      "_id": "60e1234567890abcdef123451",
+      "name": "Alice Smith",
+      "trips": 3,
+      "airline": [
+        { "id": 1, "name": "Thai Airways" }
+      ]
+    },
+    {
+      "_id": "60e1234567890abcdef123452",
+      "name": "Bob Johnson",
+      "trips": 7,
+      "airline": [
+        { "id": 2, "name": "Singapore Airlines" }
+      ]
+    },
+    {
+      "_id": "60e1234567890abcdef123453",
+      "name": "Charlie Brown",
+      "trips": 1,
+      "airline": [
+        { "id": 1, "name": "Thai Airways" }
+      ]
+    },
+    {
+      "_id": "60e1234567890abcdef123454",
+      "name": "Diana Prince",
+      "trips": 12,
+      "airline": [
+        { "id": 3, "name": "Emirates" }
+      ]
+    },
+    {
+      "_id": "60e1234567890abcdef123455",
+      "name": "Eve Adams",
+      "trips": 2,
+      "airline": [
+        { "id": 2, "name": "Singapore Airlines" }
+      ]
+    },
+    {
+      "_id": "60e1234567890abcdef123456",
+      "name": "Frank White",
+      "trips": 9,
+      "airline": [
+        { "id": 1, "name": "Thai Airways" }
+      ]
+    },
+    {
+      "_id": "60e1234567890abcdef123457",
+      "name": "Grace Lee",
+      "trips": 4,
+      "airline": [
+        { "id": 3, "name": "Emirates" }
+      ]
+    },
+    {
+      "_id": "60e1234567890abcdef123458",
+      "name": "Henry King",
+      "trips": 6,
+      "airline": [
+        { "id": 2, "name": "Singapore Airlines" }
+      ]
+    },
+    {
+      "_id": "60e1234567890abcdef123459",
+      "name": "Ivy Queen",
+      "trips": 8,
+      "airline": [
+        { "id": 1, "name": "Thai Airways" }
+      ]
+    },
+    {
+      "_id": "60e1234567890abcdef123460",
+      "name": "Jack Black",
+      "trips": 10,
+      "airline": [
+        { "id": 3, "name": "Emirates" }
+      ]
+    }
+  ],
+  "airlines": [
+    {
+      "id": 1,
+      "name": "Thai Airways",
+      "country": "Thailand",
+      "slogan": "Smooth as Silk",
+      "head_quaters": "Bangkok, Thailand",
+      "website": "thaiairways.com"
+    },
+    {
+      "id": 2,
+      "name": "Singapore Airlines",
+      "country": "Singapore",
+      "slogan": "A Great Way to Fly",
+      "head_quaters": "Singapore",
+      "website": "singaporeair.com"
+    },
+    {
+      "id": 3,
+      "name": "Emirates",
+      "country": "United Arab Emirates",
+      "slogan": "Fly Emirates, Fly Better",
+      "head_quaters": "Dubai, UAE",
+      "website": "emirates.com"
+    }
+  ]
+}
