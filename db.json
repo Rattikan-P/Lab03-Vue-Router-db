@@ -1,7 +1,7 @@
 {
   "passengers": [
     {
-      "_id": "60e1234567890abcdef123451",
+      "id": "60e1234567890abcdef123451",
       "name": "Alice Smith",
       "trips": 3,
       "airline": [
@@ -9,7 +9,7 @@
       ]
     },
     {
-      "_id": "60e1234567890abcdef123452",
+      "id": "60e1234567890abcdef123452",
       "name": "Bob Johnson",
       "trips": 7,
       "airline": [
@@ -17,7 +17,7 @@
       ]
     },
     {
-      "_id": "60e1234567890abcdef123453",
+      "id": "60e1234567890abcdef123453",
       "name": "Charlie Brown",
       "trips": 1,
       "airline": [
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "_id": "60e1234567890abcdef123454",
+      "id": "60e1234567890abcdef123454",
       "name": "Diana Prince",
       "trips": 12,
       "airline": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "_id": "60e1234567890abcdef123455",
+      "id": "60e1234567890abcdef123455",
       "name": "Eve Adams",
       "trips": 2,
       "airline": [
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "_id": "60e1234567890abcdef123456",
+      "id": "60e1234567890abcdef123456",
       "name": "Frank White",
       "trips": 9,
       "airline": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "_id": "60e1234567890abcdef123457",
+      "id": "60e1234567890abcdef123457",
       "name": "Grace Lee",
       "trips": 4,
       "airline": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "_id": "60e1234567890abcdef123458",
+      "id": "60e1234567890abcdef123458",
       "name": "Henry King",
       "trips": 6,
       "airline": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "_id": "60e1234567890abcdef123459",
+      "id": "60e1234567890abcdef123459",
       "name": "Ivy Queen",
       "trips": 8,
       "airline": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "_id": "60e1234567890abcdef123460",
+      "id": "60e1234567890abcdef123460",
       "name": "Jack Black",
       "trips": 10,
       "airline": [
